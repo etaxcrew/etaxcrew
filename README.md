@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://gorontalohosting.com">
-    <img src="https://www.gorontalohosting.com/assets/img/favicon.png">
+    <img src="https://gorontalohosting.com/assets/img/favicon.png">
   </a>
 </p>
 
