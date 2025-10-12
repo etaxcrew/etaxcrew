@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Hendra  
 
-- 👨‍💻 Building modern web & mobile experiences with React, Laravel, and Flutter  
-- 🚀 Currently exploring React ecosystem: Next.js, Vite, Zustand, and TypeScript.  
+- 👨‍💻 I am experienced in building modern web and mobile applications using React, Laravel, and Flutter.
+- 🚀 Currently exploring React ecosystem: Next.js, Vite, Zustand, and TypeScript.
 - 💡 I love creating modern UIs, integrating APIs, and optimizing web performance.
 - 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/hendrakahar/) | [Portfolio](https://www.hendrakahar.web.id/archive)
 
@@ -14,7 +14,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
