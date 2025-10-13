@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Hendra  
 
-- 👨‍💻 I am experienced in building modern web and mobile applications using React, Laravel, and Flutter.
+- 👨‍💻 I am experienced in building modern web and mobile applications using React, Laravel, and React Native.
 - 🚀 Currently exploring React ecosystem: Next.js, Vite, Zustand, and TypeScript.
 - 💡 I love creating modern UIs, integrating APIs, and optimizing web performance.
 - 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/hendrakahar/) | [Portfolio](https://www.hendrakahar.web.id/archive)
@@ -15,17 +15,17 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
 
 ### ⚙️ Core Expertise  
 - 🧩 **Backend Development** – Laravel, RESTful API Design, Authentication & Authorization  
-- 🎨 **Frontend Development** – React, Next.js, Responsive UI/UX with TailwindCSS
-- 📱 **Mobile Development** – Flutter & React Native for cross-platform apps, API integration, modern mobile UI/UX  
-- ⚙️ **DevOps & Infrastructure** – Docker, CI/CD Pipelines, Server Optimization  
+- 🎨 **Frontend Development** – React, Vue.js, Next.js, Responsive UI/UX with Bootstrap & TailwindCSS
+- 📱 **Mobile Development** – React Native for cross-platform apps, API integration, modern mobile UI/UX  
+- ⚙️ **DevOps & Infrastructure** – Docker, CI/CD Pipelines, Server Optimization
 
 ---
 
