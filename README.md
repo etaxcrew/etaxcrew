@@ -24,7 +24,7 @@
 ### ⚙️ Core Expertise  
 - 🧩 **Backend Development** – Laravel, RESTful API Design, Authentication & Authorization  
 - 🎨 **Frontend Development** – React, Next.js, Responsive UI/UX with Bootstrap & TailwindCSS
-- 📱 **Mobile Development** – React Native for cross-platform apps, API integration, modern mobile UI/UX  
+- 📱 **Mobile Development** – React Native, Flutter for cross-platform apps, API integration, modern mobile UI/UX  
 - ⚙️ **DevOps & Infrastructure** – Docker, CI/CD Pipelines, Server Optimization
 
 ---
