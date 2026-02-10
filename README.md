@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Hendra  
 
-- 👨‍💻 I am experienced in building modern web and mobile applications using React, Laravel, and React Native.
+- 👨‍💻 I am experienced in building modern web and mobile applications using React, Laravel, and Flutter.
 - 🚀 Currently exploring React ecosystem: Next.js, Vite, Zustand, and TypeScript.
 - 💡 I love creating modern UIs, integrating APIs, and optimizing web performance.
 - 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/hendrakahar/) | [Portfolio](https://www.hendrakahar.web.id/archive)
@@ -17,6 +17,9 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
