@@ -3,7 +3,7 @@
 - 👨‍💻 I am experienced in building modern web and mobile applications using React, Laravel, and Flutter.
 - 🚀 Currently exploring React ecosystem: Next.js, Vite, Zustand, and TypeScript.
 - 💡 I love creating modern UIs, integrating APIs, and optimizing web performance.
-- 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/hendrakahar/) | [Portfolio](https://www.hendrakahar.web.id/archive)
+- 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/hendrakahar/) | [Portfolio](https://www.hendrakahar.web.id/)
 
 ---
 
